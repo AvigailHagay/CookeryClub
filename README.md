@@ -1,8 +1,7 @@
 
 # Cookery Club - Recipes Application
-## Authors
-* Avigail Hagay:  Email: avigilha@edu.hac.ac.il  ID: 318201688
-* Racheli Benchamo:  Email: rachelbenha@edu.hac.ac.il  ID: 209179738
+## Author
+* Avigail Hagay:  Email: avigailhagay@gmail.com  
 
 ## Overview
 
